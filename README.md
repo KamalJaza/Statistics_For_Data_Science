@@ -11,6 +11,9 @@ Data is a collection of facts, such as numbers, words, measurements, observation
   - Discrete
 - Categorical
   - Ordinal
+# Probability Concept
+Probability is a measure of the likelihood of an event to occur. Many events cannot be predicted with total certainty. Probability can range from 0 to 1, where 0 means the event to be an impossible one and 1 indicates a certain event.
+Probability of an event = (Number of Favorable Outcomes) / (Total Number of Possible Outcomes)
 # Types of Statistics
 -	Descriptive Statistics
 -	Inferential Statistics
