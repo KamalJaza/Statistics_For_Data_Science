@@ -67,3 +67,13 @@ In this case, we will be filling the missing values with a certain number. The p
 - Filling the numerical value with 0 or -999, or some other number that will not occur in the data. This can be done so that the machine can recognize that the data is not real or is different.
 - Filling the categorical value with a new type for the missing values.
 You can use the fillna() function to fill the null values in the dataset.
+
+# Inferential Statistics
+Inferential statistics provides a way to draw conclusions about broad groups or populations based on a set of sample data. In some instances, it’s impossible to get data from an entire population or it’s too expensive. Inferential statistics solves this problem.
+Inferential statistics is process to obtain conclusion based on sample that aims to generalize of the population.
+
+## Confidence Intervals
+A confidence interval, in statistics, refers to the probability that a population parameter will fall between a set of values for a certain proportion of times. Analysts often use confidence intervals than contain either 95% or 99% of expected observations. Thus, if a point estimate is generated from a statistical model of 10.00 with a 95% confidence interval of 9.50 - 10.50, it can be inferred that there is a 95% probability that the true value falls within that range.
+
+## Hypothesis Testing
+Hypothesis Testing is a type of statistical analysis in which you put your assumptions about a population parameter to the test. It is used to estimate the relationship between 2 statistical variables.
