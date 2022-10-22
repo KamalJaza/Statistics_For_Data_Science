@@ -1,4 +1,4 @@
-# Statistics-for-Data-Science
+# Statistics for Data Science
 # Definition of Statistics
 Statistics is a set of mathematical methods and tools that enable us to answer important questions about data.
 # Definition of Data
