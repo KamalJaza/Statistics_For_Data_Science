@@ -8,7 +8,7 @@ Organizing, summarizing, and presenting data in an informative way
 -	Measure of Spread / Dispersion
 -	Skewness
 -	Correlation
-# Measure of Centrak Tendency
+## Measure of Central Tendency
 ### Mean
 Mean represents the average of the given collection of data. It is applicable for both continuous and discrete data.
 •	All scores in distribution affected the mean
@@ -20,7 +20,7 @@ Median represents the mid-value of the given set of data when arranged in a part
 •	Median is a robust statistics.
 ### Modus
 The most frequent number occurring in the data set is known as the mode.
-# Measure of Spread / Dispersion
+## Measure of Spread / Dispersion
 ### Range
 It is simply the difference between the maximum value and the minimum value given in a data set.
 ### Variance
@@ -30,8 +30,15 @@ It is simply the difference between the maximum value and the minimum value give
 The standard deviation is a measure of the amount of variation or dispersion of a set of values.
 -	A low standard deviation indicates that the values tend to be close to the mean of the set.
 -	While a high standard deviation indicates that the values are spread out over a wider range.
-
-
+## Skewness
+Skewness is a measure of the asymmetry of a distribution. A distribution is asymmetrical when its left and right side are not mirror images.
+There are 3 types of skewness
+- Positive skewness : A positive skew distribution is longer on the right side of its peak than on its left. Positive skew is also referred to as right-skewed
+- Negative skewness : A negative skew distribution is longer on the left side of its peak than on its right. Negative skew is also referred to as left-skewed
+- No Skew : When a distribution has no skew, it is symmetrical. Its left and right sides are mirror images.
+## Correlation
+Correlation is a statistical measure that expresses the extent to which two variables are linearly related (meaning they change together at a constant rate). It’s a common tool for describing simple relationships without making a statement about cause and effect.
+In Python we can see correlation in data by using DataFrame.corr()
 
 ## Outliers and Missing Value
 ### Check Outliers using Boxplot
