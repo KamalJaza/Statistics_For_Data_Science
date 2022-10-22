@@ -1,5 +1,17 @@
 # Statistics-for-Data-Science
-# Type of Statistics
+# Definition of Statistics
+Statistics is a set of mathematical methods and tools that enable us to answer important questions about data.
+# Definition of Data
+Data is a collection of facts, such as numbers, words, measurements, observations or just descriptions of things
+- Qualitative data are measures of 'types' and may be represented by a name, symbol, or a number code. Qualitative data are data about categorical variables (e.g. what type).
+- Quantitative data are measures of values or counts and are expressed as numbers. Quantitative data are data about numeric variables (e.g. how many; how much; or how often).
+# Types of Variables
+- Numerical
+  - Continuous
+  - Discrete
+- Categorical
+  - Ordinal
+# Types of Statistics
 -	Descriptive Statistics
 -	Inferential Statistics
 # Descriptive Statistics
